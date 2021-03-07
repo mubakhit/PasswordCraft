@@ -1,6 +1,6 @@
 profile = {}
 
-# The name # 1
+# The name #1
 name = input("Enter the name : ").lower()
 profile["name"] = str(name)
 print("\n")
