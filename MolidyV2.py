@@ -108,6 +108,8 @@ for a in names:
                 final.append(snumber + keeper)
                 final.append(keeper + snumber)
                 final.append(name + sname + d)
+                final.append(name + "@" + keeper )
+                final.append(name + "@" + snumber )
                 final.append(d + name + sname)
                 final.append(sname + name + d)
                 final.append(d + sname + name)
