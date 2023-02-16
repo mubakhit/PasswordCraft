@@ -1,4 +1,4 @@
-برنامج البايثون هذا أداة بسيطة لإنشاء قائمه من الارقام السريه الغير معقدة.
+ أداة بسيطة لإنشاء قائمه من الارقام السريه الغير معقدة.
 
 This python script for generate simple passwords (not complicated).
 
