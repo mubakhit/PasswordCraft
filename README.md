@@ -2,7 +2,7 @@
 
 This python script for generate simple passwords (not complicated).
 
-I hope to use this tool for good or usuful things and any unlegal use of it. I disavow this act
+I aspire to utilize this tool for beneficial and practical purposes while refraining from any illegal usage. I unequivocally disavow any such actions.
 
 created by : Muhammad Bakhit
 
